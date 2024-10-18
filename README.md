@@ -55,7 +55,5 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YevheniiBiloshapka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![](https://komarev.com/ghpvc/?username=YevheniiBiloshapka)
 
