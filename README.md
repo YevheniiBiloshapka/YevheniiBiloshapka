@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ukraine.
 
 - :telescope: I specialize in developing the front-end side of web applications and designing websites with a focus on UX/UI.
 
