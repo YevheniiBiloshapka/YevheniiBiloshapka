@@ -51,6 +51,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YevheniiBiloshapka&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
