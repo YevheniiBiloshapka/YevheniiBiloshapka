@@ -53,6 +53,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YevheniiBiloshapka&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![](https://komarev.com/ghpvc/?username=YevheniiBiloshapka)
