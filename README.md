@@ -40,7 +40,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="React" width="40" height="40" style="max-width: 100%;background-color: #fff;border-radius: 100px;padding: 1px;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="React" width="40" height="40" style="max-width: 100%; background-color: #fff; border-radius: 100px; padding: 2px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
@@ -50,8 +50,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=YevheniiBiloshapka&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YevheniiBiloshapka&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
