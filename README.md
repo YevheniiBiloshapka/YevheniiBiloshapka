@@ -54,7 +54,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YevheniiBiloshapka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Yevhenii's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YevheniiBiloshapka&layout=compact&theme=vision-friendly-dark&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
